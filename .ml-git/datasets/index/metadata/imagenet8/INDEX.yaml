@@ -1,0 +1,30 @@
+data/train/fail.jpeg:
+  ctime: 1626093417.06
+  hash: zdj7WnB8W4UFukNMf2qu1iGLpqRZcu6aje36czzHxxamYKZn3
+  mtime: 1617913755.6875224
+  size: 589298
+  status: u
+data/train/pass.jpeg:
+  ctime: 1626093417.06
+  hash: zdj7WctsH3pVZw88EyoTRgbxouJd3murv6Yow7NywXuxF5b5b
+  mtime: 1617914445.4686263
+  size: 596427
+  status: u
+data/train/pass2.jpeg:
+  ctime: 1626093417.06
+  hash: zdj7WZsAiTo5YL2ofhHcimqjLuEJG9GgZX8rjtw75XJSphEwc
+  mtime: 1617914450.2359471
+  size: 595307
+  status: u
+data/val/fail.jpeg:
+  ctime: 1626093417.06
+  hash: zdj7WWeP8zN1kxTyEvBpmKjkDimhjVW7cQRHLumxV1Fvrkxjy
+  mtime: 1617913756.0218616
+  size: 587384
+  status: u
+data/val/pass.jpeg:
+  ctime: 1626093417.06
+  hash: zdj7WjQ33tFLcE7Emw6mEQ6MhEawr3fxfKv4uGwcV8iyu8GQp
+  mtime: 1617914445.9564738
+  size: 596645
+  status: u

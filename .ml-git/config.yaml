@@ -1,0 +1,29 @@
+batch_size: 20
+datasets:
+  git: https://github.com/tales-mlgit-test/test-mlgit-dataset.git
+labels:
+  git: https://github.com/tales-mlgit-test/test-mlgit-labels.git
+models:
+  git: https://github.com/tales-mlgit-test/test-mlgit-model.git
+storages:
+  s3:
+    mlgit-datasets:
+      aws-credentials:
+        profile: default
+      region: us-east-1
+  s3h:
+    mlgit-datasets:
+      aws-credentials:
+        profile: mlgit
+      endpoint-url: http://127.0.0.1:9000
+      region: null
+    mlgit-labels:
+      aws-credentials:
+        profile: mlgit
+      endpoint-url: http://127.0.0.1:9000
+      region: null
+    mlgit-models:
+      aws-credentials:
+        profile: mlgit
+      endpoint-url: http://127.0.0.1:9000
+      region: null
